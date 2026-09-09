@@ -1,13 +1,5 @@
 import './Footer.css'
 
-const Footer = () => (
-  <footer className='footer'>
-    <a
-      href='https://github.com/rjshkhr/cleanfolio'
-      className='link footer__link'
-    >
-    </a>
-  </footer>
-)
+const Footer = () => <footer className='footer' />
 
 export default Footer
