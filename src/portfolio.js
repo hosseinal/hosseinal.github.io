@@ -11,8 +11,8 @@ const about = {
   picture: 'https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png',
 
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    'Hossein is a software engineer passionate about computer science and always eager to learn and explore new opportunities. He has professional experience in backend development and C++, with additional knowledge of CUDA programming and a strong interest in distributed systems.',
+  resume: 'https://www.linkedin.com/in/hosseinalbakri/',
   social: {
     linkedin: 'https://www.linkedin.com/in/hosseinalbakri/',
     github: 'https://github.com/hosseinal',
