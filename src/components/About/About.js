@@ -9,18 +9,7 @@ const About = () => {
   return (
     <div className='about center'>
       <div className='about__header'>
-        {picture && (
-          <img
-            src={
-              picture.startsWith('http')
-                ? picture
-                : `${process.env.PUBLIC_URL}/images/${picture}`
-            }
-            alt={name}
-            className='about__picture'
-          />
-        )}
-
+        
     <div className='about__intro'>
       {name && (
         <h1>
